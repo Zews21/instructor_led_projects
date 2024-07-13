@@ -1,0 +1,1 @@
+This program sends you an email whenever the ISS is near you during night time. For maximum efficency make sure to run it in the cloud. Some parts have been swapped with "[...]" meaning you should use your own information.
